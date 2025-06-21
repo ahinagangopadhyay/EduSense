@@ -47,8 +47,8 @@ The learning style prediction is powered by a trained **Logistic Regression mode
 ---
 
 ## 📸 Demo Preview
+![image](https://github.com/user-attachments/assets/39d13707-ecf5-4630-be57-ec5ba86bfa67)
 
-![EduSense Screenshot](preview.png) <!-- Replace with your screenshot -->
 
 ---
 
